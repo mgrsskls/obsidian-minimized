@@ -1,0 +1,6 @@
+{
+	"name": "minimized",
+	"author": "Michael Großklaus",
+	"repo": "mgrsskls/obsidian-minimized",
+	"modes": ["dark", "light"]
+}
